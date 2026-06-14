@@ -1,4 +1,4 @@
-# AOLL
+# AOLL Task 1 OG
 
 Essay: Discuss the Importance of Academic Integrity in Academic Writing 
 
