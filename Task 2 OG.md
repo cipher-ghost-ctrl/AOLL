@@ -1,4 +1,4 @@
-# AOLL
+# AOLL Task 2 OG
 Essay: Evaluate the Ethical Use of Generative Artificial Intelligence in Your Subject Area 
 
 Introduction (AC 3.1, 3.2) 
